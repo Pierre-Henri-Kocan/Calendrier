@@ -1,0 +1,10 @@
+{
+    "name": "pierre-henrikocan/calendrier",
+    "autoload": {
+        "psr-4": {
+            "Calendar\\": "src/Calendar",
+            "App\\": "src/App"
+        }
+    },
+    "require": {}
+}
